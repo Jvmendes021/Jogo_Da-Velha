@@ -3,3 +3,7 @@ Neste projeto, vamos construir juntos um jogo da velha, utilizando somente HTML 
 
 
 ![Capturar1](https://user-images.githubusercontent.com/94051879/193709429-b8d2414d-adeb-49ba-bebf-baba720cae22.PNG)
+
+- HTML 
+- CSS
+- JAVASCRIPT
